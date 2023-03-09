@@ -1,0 +1,15 @@
+C:\dev\c#\Calculations\Calculations\bin\Debug\net6.0\Calculations.exe
+C:\dev\c#\Calculations\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\dev\c#\Calculations\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+C:\dev\c#\Calculations\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\dev\c#\Calculations\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+C:\dev\c#\Calculations\Calculations\obj\Debug\net6.0\ref\Calculations.dll
